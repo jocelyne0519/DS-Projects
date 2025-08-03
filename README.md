@@ -1,4 +1,4 @@
-# DS_Projects
+# DS Projects
 
 ## 📌 Tools & Skills
 
