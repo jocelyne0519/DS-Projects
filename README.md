@@ -53,4 +53,4 @@ Investigated techniques to improve question-answering systems using reranking me
 
 ### 8. XGBoost from Scratch
 Implemented XGBoost algorithm manually without libraries to better understand boosting mechanics and regularization.  
-📄 [View PDF](XGBoost_from_Scratch_in_Python.pdf)
+ [View PDF](XGBoost_from_Scratch_in_Python.pdf)
