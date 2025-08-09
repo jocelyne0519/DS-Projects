@@ -54,3 +54,7 @@ Investigated techniques to improve question-answering systems using reranking me
 ### 8. XGBoost from Scratch
 Implemented XGBoost algorithm manually without libraries to better understand boosting mechanics and regularization.  
  [View PDF](XGBoost_from_Scratch_in_Python.pdf)
+
+### 9. [Recommendation System – Collaborative Filtering](Recommendation_system_collaborative_filltering.ipynb)
+Developed a **user-based** and **item-based** collaborative filtering recommendation engine using the Amazon 2023 All Beauty reviews dataset. Built a user–item rating matrix, computed cosine similarity, and evaluated performance using RMSE and precision@k.
+
