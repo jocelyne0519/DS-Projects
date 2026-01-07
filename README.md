@@ -27,6 +27,7 @@ Constructed default labels from credit records, engineered behavior-based featur
 - Compared Random Forest, XGBoost, and LightGBM  
 - Translated predicted probabilities into risk bands for business interpretation  
 
+
 ---
 
 ### 2. Clustering Algorithms with Scikit-learn  
