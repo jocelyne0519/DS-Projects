@@ -17,6 +17,7 @@ A curated collection of applied data science and machine learning projects, focu
 
 ### 1. Credit Risk Modeling with Application & Behavioral Credit Records  
 📓 *Notebook:* [Predicting Credit Default Risk](Predicting_Credit_Default_Risk.ipynb)
+📄 *PDF:* [Credit Risk Modeling – Project Report](Predicting_Credit_Default_Risk.pdf)
 
 Built an **end-to-end credit risk modeling pipeline** using applicant profiles and historical credit behavior data.  
 Constructed default labels from credit records, engineered behavior-based features, and compared multiple tree-based ensemble models.
